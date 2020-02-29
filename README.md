@@ -1,2 +1,2 @@
-# ObjectRecognition
+# Object Recognition
 Deep Learning
